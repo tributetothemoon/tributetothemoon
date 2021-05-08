@@ -2,7 +2,7 @@
 
 Hello! there? :crescent_moon:
 
-## Language and Tools
+## Languages and Tools
 
 <div align>
  <code><img height="25" src="https://img.icons8.com/color/240/000000/java.png"></code>
