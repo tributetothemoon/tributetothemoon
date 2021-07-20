@@ -11,7 +11,6 @@ Hello! there? :crescent_moon:
 <code><img height="25" src="https://img.icons8.com/color/240/000000/javascript.png"></code>
 <code><img height="25" src="https://img.icons8.com/color/240/000000/typescript.png"></code>
 <code><img height="25" src="https://img.icons8.com/color/240/000000/spring-logo.png"></code>
-<code><img height="25" src="https://img.icons8.com/color/240/000000/django.png"></code>
 <code><img height="25" src="https://img.icons8.com/color/240/000000/nodejs.png"></code>
  <code><img height="25" src="https://img.icons8.com/color/240/000000/mac-logo.png"></code>
 <code><img height="25" src="https://img.icons8.com/color/240/000000/ubuntu.png"></code>
