@@ -21,8 +21,8 @@ Hello! there? :crescent_moon:
 </br>
 
 
-[![Moon's Github Stats](https://github-readme-stats.vercel.app/api?username=tributetothemoon&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-[![Moon's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tributetothemoon&theme=onedark&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Moon's Github Stats](https://github-readme-stats.vercel.app/api?username=tributetothemoon&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Moon's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tributetothemoon&theme=dark&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **tributetothemoon/tributetothemoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
