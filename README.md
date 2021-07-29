@@ -2,9 +2,14 @@
 
 Hello! there? :crescent_moon:
 
+- `2014 ~ 2021` Chung-Ang Univ, Dept. of Sociology.
+- `2019 ~ 2021` Chung-Ang Univ, Dept. of Computer Science(Double Maj).
+- `2020` 27th SOPT Server Part.
+- `2021 ~`   Woowahan TechCourse, Back-end Part.
+
 ## Languages and Tools
 
-<div align>
+<div align=center>
 <code><img height="25" src="https://img.icons8.com/color/240/000000/java.png"></code>
 <code><img height="25" src="https://img.icons8.com/color/240/000000/python.png"></code>
 <code><img height="25" src="https://img.icons8.com/color/240/000000/c-programming.png"></code>
@@ -20,9 +25,13 @@ Hello! there? :crescent_moon:
 
 </br>
 
-
+<div align=center>
+  
 [![Moon's Github Stats](https://github-readme-stats.vercel.app/api?username=tributetothemoon&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Moon's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tributetothemoon&theme=dark&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
 <!--
 **tributetothemoon/tributetothemoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
