@@ -4,8 +4,8 @@ Hello! there? :crescent_moon:
 
 - `2014 ~ 2021` Chung-Ang Univ, Dept. of Sociology.
 - `2019 ~ 2021` Chung-Ang Univ, Dept. of Computer Science(Double Maj).
-- `2020` 27th SOPT Server Part.
-- `2021 ~`   Woowahan TechCourse, Back-end Part.
+- `2020` [SOPT](http://sopt.org/wp/) Server Part, 27th generation.
+- `2021 ~`   [Woowahan TechCourse](https://woowacourse.github.io/), Back-end Part, 3rd generation.
 
 ## Languages and Tools
 
